@@ -12,7 +12,7 @@ spring:
         enabled: true
       notify:
         mail:
-          to: xxxxxxxx@163.com
+          to: chentian443@126.com
           from: paascloudTest@163.com
       turbine:
         clusters: default
